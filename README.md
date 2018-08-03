@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Exploratory Data Analysis
 
 
-### Histogram Of US Daily Births
+### Histogram of US Daily Births
 
 A casual examination of a histogram of the number of daily US births immediately suggests that births in the US do not conform to a normal distribution.  Note the bimodal nature of the distribution.
 
