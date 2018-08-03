@@ -1,6 +1,6 @@
 ## Analysis of Daily US Births
 
-Given the uncertainties around childbirth, one might expect little variation in the number of babies born on one day to the next. However, knowing that over 98% of births in the US occur in a hospital and around 50% of these births are pre-scheduled (either cesarian section or induction) might alter this expectation.  In this analysis, we explore the patterns that underlie the variations in the number of daily US births.  
+Given the uncertainties around childbirth, one might expect little variation in the number of babies born on one day to the next. However, knowing that over 98% of births in the US occur in a hospital and around 50% of these births are pre-scheduled (either cesarian section or induction) might alter this expectation.  In this [Jupyter Notebook](https://github.com/KevinVanderveen/Daily-US-Births-2000-2014/blob/master/Analysis%20of%20Daily%20US%20Birth%20Data%202000-2014.ipynb), we explore the patterns that underlie the variations in the number of daily US births.  
 
 ## Data Source
 
